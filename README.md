@@ -7,7 +7,7 @@ This project showcases my profile, technical skills, projects, and learning jour
 
 ## 🚀 Live Website
 
-🔗 https://manasvimishra-portfolio.netlify.app
+🔗 https://manasvimishraa-portfolio.netlify.app
 
 ---
 
