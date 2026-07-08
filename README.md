@@ -67,7 +67,7 @@ personal-portfolio/
 
 ## 📸 Preview
 
-![Portfolio Preview](images/portfolio-preview.png)
+![Portfolio Preview](portfolio-preview.png)
 
 ---
 
